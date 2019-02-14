@@ -126,7 +126,7 @@ img.my-img {
 
 .interests-container img {
   height: 35px;
-  opacity: 0.75;
+  opacity: 0.55;
 }
 @media only screen and (max-width: 768px) {
   section {
